@@ -2871,6 +2871,11 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-qUZ5jaSD5f {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #387815;
+}
 .cid-qUYzUsh9z0 .navbar {
   background: #387815;
   transition: none;
@@ -3260,32 +3265,6 @@ body {
 .cid-qUYzUsh9z0 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qUYzUtHsFC {
-  background-image: url("../../../assets/images/mbr-721x1080.jpg");
-}
-.cid-qUYzUtHsFC .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qUYzUtHsFC .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qUYzUtHsFC .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qUYzUtHsFC .mbr-text {
-  color: #ffffff;
-}
-.cid-qUYzUtHsFC .card {
-  padding-bottom: 1.5rem;
-}
 .cid-qUYzUuV1ms {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3483,6 +3462,11 @@ body {
   .cid-qUYzUw4XXc .mbr-text {
     text-align: center !important;
   }
+}
+.cid-qUZ3VayVsx {
+  padding-top: 120px;
+  padding-bottom: 105px;
+  background-color: #387815;
 }
 .cid-qUYA7ktCTh .navbar {
   background: #387815;
@@ -3872,119 +3856,6 @@ body {
 .cid-qUYA7ktCTh .nav-link:hover,
 .cid-qUYA7ktCTh .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-qUYA7kUsxu {
-  background-image: url("../../../assets/images/mbr-721x1080.jpg");
-}
-.cid-qUYA7kUsxu .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qUYA7kUsxu .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qUYA7kUsxu .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qUYA7kUsxu .mbr-text {
-  color: #ffffff;
-}
-.cid-qUYA7kUsxu .card {
-  padding-bottom: 1.5rem;
-}
-.cid-qUYA7lCAU3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f8f8f8;
-}
-.cid-qUYA7lCAU3 .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qUYA7lCAU3 .timeline-text-content {
-  padding: 2rem 2.5rem;
-  background: #e7e7e7;
-  margin-right: 2rem;
-  transition: all .4s;
-}
-.cid-qUYA7lCAU3 .timeline-text-content p {
-  margin-bottom: 0;
-}
-.cid-qUYA7lCAU3 .timeline-element {
-  margin-bottom: 50px;
-  position: relative;
-  word-wrap: break-word;
-  word-break: break-word;
-  display: -webkit-flex;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-}
-.cid-qUYA7lCAU3 .timeline-element:hover .timeline-text-content {
-  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
-  transition: all .4s;
-}
-.cid-qUYA7lCAU3 .reverse {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-qUYA7lCAU3 .reverse .timeline-text-content {
-  margin-left: 2rem;
-  margin-right: 0;
-}
-.cid-qUYA7lCAU3 .iconsBackground {
-  position: absolute;
-  left: 50%;
-  width: 60px;
-  height: 60px;
-  line-height: 30px;
-  text-align: center;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: #e7e7e7;
-  top: 20px;
-  margin-left: -30px;
-}
-.cid-qUYA7lCAU3 .mbr-iconfont {
-  position: absolute;
-  text-align: center;
-  font-size: 35px;
-  display: inline-block;
-  z-index: 3;
-  top: 13px;
-  left: 13px;
-}
-.cid-qUYA7lCAU3 .separline:before {
-  top: 20px;
-  bottom: 0;
-  position: absolute;
-  content: "";
-  width: 2px;
-  background-color: #e7e7e7;
-  left: calc(50% - 1px);
-  height: calc(100% + 4rem);
-}
-@media (max-width: 768px) {
-  .cid-qUYA7lCAU3 .iconsBackground {
-    left: 1.5rem;
-  }
-  .cid-qUYA7lCAU3 .separline:before {
-    left: calc(1.5rem - 1px);
-  }
-  .cid-qUYA7lCAU3 .timeline-text-content {
-    margin-left: 3rem !important;
-    margin-right: 0 !important;
-  }
-  .cid-qUYA7lCAU3 .reverse .timeline-text-content {
-    margin-right: 0 !important;
-  }
 }
 .cid-qUYA7mXftg {
   padding-top: 60px;
