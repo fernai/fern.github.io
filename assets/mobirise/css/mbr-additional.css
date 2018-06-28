@@ -2038,7 +2038,46 @@ body {
 .cid-qUZ3VayVsx {
   padding-top: 120px;
   padding-bottom: 105px;
-  background-color: #387815;
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qWhRiwhIAQ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qWhRiwhIAQ .card-img {
+  background-color: #fff;
+}
+.cid-qWhRiwhIAQ .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qWhRiwhIAQ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qWhRiwhIAQ p {
+  text-align: left;
+}
+.cid-qWhRiwhIAQ .mbr-text {
+  color: #767676;
+}
+.cid-qWhRiwhIAQ .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qWhRiwhIAQ .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qWhRiwhIAQ .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
 }
 .cid-qUYA7ktCTh .navbar {
   background: #ffffff;
